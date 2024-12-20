@@ -95,7 +95,7 @@ then open the browser and put this url there:
 http://localhost:8000/swagger/
 
 
-# I have added 2 unit Test as well for twoo appi Endpoint
+# I have added 2 unit Test as well for two api Endpoint
 /authors/ - list or author 
 /books/ - list of all books
 
